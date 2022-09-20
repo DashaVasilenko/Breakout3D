@@ -1,9 +1,13 @@
 # Breakout3D
 Reupload of a project written in 2021.\
+\
 Breakout3D is a "circular" variant of a classic breakout game – the goal of
 the game is to break all bricks in the level using a ball, controlled by in-game physics and
 paddle(s), controlled by the player.\
-This project was made without game engines. 
+\
+The goal of the project was to:
+- develop a core of a game engine in C++ including basic graphics and physics components, and
+- develop a simple game using my own engine.
 
 ## Author
 Daria Vasilenko
@@ -24,3 +28,11 @@ Enter - restart level
 ![](https://github.com/DashaVasilenko/Breakout3D/blob/main/screenshots/1.png)
 ![](https://github.com/DashaVasilenko/Breakout3D/blob/main/screenshots/2.png)
 ![](https://github.com/DashaVasilenko/Breakout3D/blob/main/screenshots/3.png)
+
+## Game Engine Features
+1. Math library (including vector and matrix arithmetic)
+2. Collision detection (sphere vs sphere, sphere vs brick)
+3. Phong shading
+4. Shadow mapping (for directional lights)
+5. Construct the geometry (ball, paddles, bricks, ground) of level from scratch (manual generation of mesh vertexes coordinates, normals, UVs)
+6. Texturing 

@@ -21,3 +21,6 @@ Arrows - move paddles and launch the ball\
 Enter - restart level
 
 ## Screenshots
+![](https://github.com/DashaVasilenko/Breakout3D/blob/main/screenshots/1.png)
+![](https://github.com/DashaVasilenko/Breakout3D/blob/main/screenshots/2.png)
+![](https://github.com/DashaVasilenko/Breakout3D/blob/main/screenshots/3.png)

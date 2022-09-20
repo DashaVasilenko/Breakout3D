@@ -19,3 +19,5 @@ C++, OpenGL, [glew](https://github.com/nigels-com/glew), [glfw](https://github.c
 Arrows - move paddles and launch the ball\
 1, 2, 3, 4 - change camera view\
 Enter - restart level
+
+## Screenshots
